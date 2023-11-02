@@ -7,7 +7,7 @@
   <version>1.0-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>Ipoteka</name>
+  <name>Mortgage</name>
   <url>http://maven.apache.org</url>
 
   <properties>
